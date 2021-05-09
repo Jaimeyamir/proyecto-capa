@@ -1,0 +1,92 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+p{
+	font-size: 22px;
+	font-family: Times New Roman;
+	text-align: justify;
+	line-height: 100%;
+}
+#encabezado{
+	background: #1D64CA;
+	width: 10%;
+	margin: auto;
+	height: 500px;
+
+}
+#origen{
+	text-align: justify-all;
+	background: #1D64CA;
+	width: 90%;
+	margin: auto;
+	height: 200px;
+}
+#estudios{
+	text-align: justify-all;
+	background: #F4BB0A;
+	width: 90%;
+	margin: auto;
+	height: 200px;
+
+}
+#contactos{
+	text-align: justify-all;
+	background: #21E85A;
+	width: 90%;
+	height: 100px;
+	font-size: 20px;
+}
+#ct{
+	background: #21E8B5;
+	font-size: 22px;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #44E690;
+	width: 25%;
+	max-width: 1000%
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+	display: block;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+
+}
+.menu li a:hover{
+	background:  #18D370;
+}
+
+#parrafo{
+	text-align: justify-all;
+	background: #7AEE99;
+	width: 90%;
+	margin: auto;
+	height: 337px;
+	font-size: 24px
+
+}
+
+#informacion{
+	font-size: 28px
+}
+
+#center{
+	margin: auto;
+	font-size: 18px
+}
+
+#general{
+	margin: auto;
+	background-color: #7AEE99;
+	width: 30%;
+	font-size: 25px
+}
